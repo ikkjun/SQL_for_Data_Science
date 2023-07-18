@@ -218,14 +218,38 @@ Ask question about business problem you are solving
 Hard to separate data and business understanding
 
 Moving Between Data and Business Understanding
-
-Profiling
-Start with Select
-Test
-Format & Comment
-Review
 */
 
 /*
 Using SQL for Data Science, Part 2
+3. Profiling
+Get into the details of your data
+Create a data model and map the fields and tables you need
+Consider joins and calculations
+Understand any date quality or format issues
+
+4. Start with Select
+Start simple
+Any query begins with SELECT statement
+Add in special formatting
+If using subqueries, start with the inner-most query and work outward
+
+5. Test and Troubleshoot
+Do not wait until the end to test queries
+Test after each join or filter
+Are you getting the results you expect?
+Start small and go step-by-step when troubleshooting a query
+
+6. Format & Comment
+Use correct formatting and indentation
+Comment strategically
+Clean code and comments help when you revisit or hand off code
+
+7. Review
+Always review old queries
+Business rules
+Date changes
+Date Indicators
+Work the problem for beginning to end
+*/
 
